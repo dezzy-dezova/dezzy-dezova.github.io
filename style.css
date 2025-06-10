@@ -35,7 +35,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   line-height: 1.6;
-  background: url('https://media.discordapp.net/attachments/1273802333826056293/1371235992639508561/2023-08-11_06.png?ex=68226688&is=68211508&hm=9d4a50c275e5dcdbd841fcb4fec6de9425956d3406d10c543b437c246add193f&=&width=846&height=476') center center fixed;
+  background: url('https://media.discordapp.net/attachments/1273802333826056293/1371235992639508561/2023-08-11_06.png') center center fixed;
   background-size: cover;
   color: var(--text);
   min-height: 100vh;
